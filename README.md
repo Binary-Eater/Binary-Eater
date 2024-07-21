@@ -3,6 +3,7 @@
 - 🎮  I am the author and maintainer of the [hid-nvidia-shield upstream linux HID driver](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/drivers/hid/hid-nvidia-shield.c).
 - ⌨️  I am a huge input geek. Fan of Apple Desktop Bus and other peripheral related technology from both the past and present.
 - ❄️  I use NixOS for my development distribution for systems programming (though I think any distro is fine).
+- 🔭  Learn more about me through my [blog](https://binary-eater.github.io/), its [about page](https://binary-eater.github.io/about/), or the [latest release](https://github.com/Binary-Eater/curriculum-vitae/releases/latest) of my [CV](https://github.com/Binary-Eater/curriculum-vitae).
 
 <!--
 **Binary-Eater/Binary-Eater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
