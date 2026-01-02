@@ -1,6 +1,6 @@
 ### About Me
 
-- 🖥️  I am a display dork and GPU lover. My biggest interest both professionally and personally lies in using GPUs for graphics applications on open source platforms.
+- 🖥️  I am a display dork and GPU lover. My biggest interest lies in using GPUs for graphics applications on open source platforms.
 - 🏰  If I ever have free time (which is not often these days), I enjoy playing JRPGs and visual novels.
     - 🛠️  I end up [debugging games](https://github.com/Binary-Eater/WhiteAlbum2-Proton-patch-scripts) more frequently than getting to play them. In a way, debugging a game is a game itself.
 - 🎮  I am the author and maintainer of the [hid-nvidia-shield upstream linux HID driver](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/drivers/hid/hid-nvidia-shield.c).
